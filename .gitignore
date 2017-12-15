@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Filters/Image01.ppm
+/Filters/filtered_Image01.ppm
