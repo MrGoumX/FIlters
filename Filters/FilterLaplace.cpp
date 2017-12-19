@@ -1,10 +1,8 @@
 #include "FilterLaplace.h"
 #include "Vec3.h"
-#include <iostream>
 
 imaging::Image imaging::FilterLaplace::operator<<(const imaging::Image &image)
 {
-	imaging::FilterBlur::operator<<(image);
 	int width = image.getWidth();
 	int height = image.getHeight();
 	Image* nimage = const_cast<Image*>(&image);

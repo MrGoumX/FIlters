@@ -2,7 +2,6 @@
 #define _FilterLaplace_
 
 #include "Image.h"
-#include "Filter.h"
 #include "FilterBlur.h"
 
 namespace imaging

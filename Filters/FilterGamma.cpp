@@ -1,5 +1,3 @@
-#include <math.h>
-#include "Filter.h"
 #include "FilterGamma.h"
 
 imaging::Image imaging::FilterGamma::operator<<(const Image &image)

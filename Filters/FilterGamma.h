@@ -20,6 +20,7 @@ namespace imaging
 		~FilterGamma() {}
 
 		Image operator<<(const Image &image);
+
 	};
 }
 
