@@ -1,3 +1,3 @@
-# Negative Image Filtering
+# Image Filtering
 
-Editing of images (.ppm files) in order to produces their negative images, written in C++
+Editing of images (.ppm) with different kind of filters, Negative, Gamma, Blur & Laplace, written in C++
